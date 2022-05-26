@@ -1,4 +1,4 @@
-interface Cep {
+type Cep = {
     cep: string;
     logradouro: string;
     complemento: string;
